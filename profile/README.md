@@ -8,6 +8,8 @@
 
 ### Higher-level programming
 
+- [Tasks link](https://github.com/dawoud-alx-projects/alx-higher_level_programming)
+
 ### System engineering and DevOps
 
 ## Specializations
