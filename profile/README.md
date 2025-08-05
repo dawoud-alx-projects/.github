@@ -12,6 +12,8 @@
 
 ### System engineering and DevOps
 
+- [Tasks link](https://github.com/dawoud-alx-projects/alx-system_engineering-devops)
+
 ## Specializations
 
 ### Backend
