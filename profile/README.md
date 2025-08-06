@@ -18,6 +18,12 @@
 
 ### Backend
 
+- [alx-backend-javascript](https://github.com/dawoud-alx-projects/alx-backend-javascript)
+- [alx-backend-python](https://github.com/dawoud-alx-projects/alx-backend-python)
+- [alx-backend-user-data](https://github.com/dawoud-alx-projects/alx-backend-user-data)
+- [alx-backend-storage](https://github.com/dawoud-alx-projects/alx-backend-storage)
+- [alx-backend](https://github.com/dawoud-alx-projects/alx-backend)
+
 ## Projects
 
 ### Low level projects
@@ -31,3 +37,10 @@
 
 - AirBnB clone: [v1](https://github.com/mdawoud27/AirBnB_clone) | [v2](https://github.com/mdawoud27/AirBnB_clone_v2) | [v3](https://github.com/mdawoud27/AirBnB_clone_v3) | [v4](https://github.com/mdawoud27/AirBnB_clone_v4)
 - [alx quizzes](https://github.com/mdawoud27/alx_quizzes)
+- [alx-files_manager](https://github.com/mdawoud27/alx-files_manager)
+
+### backend
+
+- [TaskTrial](https://github.com/mdawoud27/TaskTrial)
+- [Job search app](https://github.com/mdawoud27/job-search-app)
+- [Readify](https://github.com/mdawoud27/Readify)
