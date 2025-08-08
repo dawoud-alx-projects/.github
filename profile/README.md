@@ -39,7 +39,7 @@
 - [alx quizzes](https://github.com/mdawoud27/alx_quizzes)
 - [alx-files_manager](https://github.com/dawoud-alx-projects/alx-files_manager)
 
-### backend
+### Backend projects
 
 - [TaskTrial](https://github.com/mdawoud27/TaskTrial)
 - [Job search app](https://github.com/mdawoud27/job-search-app)
